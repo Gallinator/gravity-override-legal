@@ -6,10 +6,10 @@ Update date: 02/03/2025
 
 ### 1. Data Controller and scope of application
 
-With this information for the processing of personal data (hereinafter “Information”), Luigi Ciceri, email address for contact dh.fr.android.game@gmail.com (hereinafter “Data Controller”) provides those who interact (hereinafter “Users” or “Data Subjects”) with the application (hereinafter “APP”) via a mobile device (hereinafter “Device”) the following information regarding the Personal Data processed in the provision of services (hereinafter “Services”) as described in the Terms and Conditions of Use. The Data Controller can be contacted by sending a registered letter with return receipt or an email to the address indicated above.
+With this information for the processing of personal data (hereinafter “Information”), Luigi Ciceri, email address for contact dh.fr.android.game@gmail.com (hereinafter “Data Controller”) provides those who interact (hereinafter “Users” or “Data Subjects”) with the application (hereinafter “APP”) via a mobile device (hereinafter “Device”) the following information regarding the Personal Data processed in the provision of services (hereinafter “Services”) as described in the [Terms and Conditions of Use](https://github.com/Gallinator/gravity-override-legal/blob/main/README.md). The Data Controller can be contacted by sending a registered letter with return receipt or an email to the address indicated above.
 
 ### 2. General information
-The Data Controller do not collect any data about the Users. However some third parties SDK which are used by the APP may do. For further information see Unity.
+The Data Controller do not collect any data about the Users. However some third parties SDK which are used by the APP may do.<br> For further information see the [Game Player and App User Privacy FAQ](https://unity.com/legal/game-player-and-app-user-privacy-faq).<br>
 Failure to provide that Data could make it impossible to use all or some of the services made available by the APP.
 
 The colection of data from third parties can be stopped at any time by removing the APP from the Device.
